@@ -1,4 +1,4 @@
-_Please stick to the headings and their order. Don't modify the words in bold._<br>
+_Please stick to the headings and their order. Don't modify the words in bold. Your input is required at each occurrence of "e.g." and "..."._<br>
 _You may use https://tex-image-link-generator.herokuapp.com/ to render math formulas in Markdown, see the examples below._
 
 ## Physics

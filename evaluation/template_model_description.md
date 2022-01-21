@@ -31,7 +31,8 @@ _E.g._ One mass balance per component water and CO2.
 ### Spatial parameters
 
 _Please provide the relevant facies parameters as a csv file._<br>
-_E.g._ The parameters ![p_\text{entry}, \lambda, S_{lr}, S_{gr}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+p_%5Ctext%7Bentry%7D%2C+%5Clambda%2C+S_%7Blr%7D%2C+S_%7Bgr%7D%0A) for the different facies are given in [template_spatial_parameters.csv](template_spatial_parameters.csv).
+_E.g._ The parameters ![p_\text{entry}, \lambda, S_{lr}, S_{gr}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+p_%5Ctext%7Bentry%7D%2C+%5Clambda%2C+S_%7Blr%7D%2C+S_%7Bgr%7D%0A) for the different facies are given in [template_spatial_parameters.csv](template_spatial_parameters.csv).<br>
+_Obviously, the number and type of parameters for your model might differ from the ones in the provided template._
 
 ## Numerics
 

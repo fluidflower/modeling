@@ -30,7 +30,7 @@ _E.g._ One mass balance per component water and CO2.
 
 #### Solubility limit
 
-_Please provide the assumed dissolution limit of CO2 in liquid phase at the tank bottom in kg/m<sup>3</sup>._
+_Please provide the assumed solubility limit of CO2 in liquid phase at the tank bottom in kg/m<sup>3</sup>._
 
 ### Temperature
 

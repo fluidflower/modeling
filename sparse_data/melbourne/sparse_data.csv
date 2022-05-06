@@ -1,0 +1,11 @@
+# idx, p10_mean, p50_mean, p90_mean, p10_dev, p50_dev, p90_dev
+1a(N/m2)	110898.2228	111231.5288	111898.1408	66.6612	133.322	266.645
+1b(N/m2)	105071.5959	105404.9019	106071.5139	66.6612	133.322	266.645
+2(s)	8000	9.60E+03	11000	300	300	400
+3a, 1.234e+56, <...>, # mobile free phase in Box A at 72h [kg]
+3b, 1.234e+56, <...>, # immobile free phase in Box A at 72h [kg]
+3c, 1.234e+56, <...>, # dissolved in water in Box A at 72h [kg]
+3d, 1.234e+56, <...>, # seal in Box A at 72h [kg]
+4a-d <same for Box B>
+5, 1.234e+56, <...>, # time when M exceeds 110% of Box C’s width [s]
+6, 1.234e+56, <...>, # total mass of CO2 in the top seal facies [kg]
